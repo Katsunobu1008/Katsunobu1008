@@ -60,7 +60,7 @@
 
 ## コミュニティへの貢献
 
-- **[TNXR](https://tokyonode.jp/articles/202404-1/index.html)**: コミュニティオーガナイザー (2024年～現在)
+- **[TNXR](https://tokyonode.jp/articles/202404-1/index.html)**: TNXRコミュニティリーダー (2024年～現在)
 - **[IwakenLab](https://www.iwakenlab.jp/Iwaken-Lab-95875f8ad38f434b9bc473b7ecf14983)**: メンバー (2023年～現在)
 
 ---
