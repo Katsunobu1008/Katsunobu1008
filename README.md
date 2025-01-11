@@ -1,6 +1,6 @@
 # 長崎勝信 (かっつー / Katsunobu1008)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Katsunobu1008}
-)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=katsunobu1008&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Profile/プロフィール
 #### 人生のミッション
