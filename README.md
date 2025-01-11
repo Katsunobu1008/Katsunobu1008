@@ -1,17 +1,38 @@
-# katsunobu1008/長崎勝信（かっつー）
-
-### 人生のミッション
-　・XRでなめらかな社会を実現すること
-    ・多様性を維持ししたまま二項対立のない世界
-  ・新たな都市体験を創発すること
-
-  # 長崎勝信 (かっつー / katsunobu1008)
-
-## 概要
-### 人生のミッション
+# 長崎勝信 (かっつー / katsunobu1008)
+## Profile/プロフィール
+#### 人生のミッション
 - XRでなめらかな社会を実現すること
   - 多様性を維持ししたまま二項対立のない世界
+  - 人々がありのまま生きられるようにすること
+- 新たな都市体験を創発すること
 
+#### 属性
+- XRプランナー/XRエンジニア/コミュニティリーダー
+
+#### 略歴
+-### 学歴
+- 慶應義塾高等学校 卒業
+- 慶應義塾大学経済学部 在学中
+
+### 職歴
+
+- **2020年11月** 株式会社aiforce solutions マーケティング部門インターン 
+- **2021年9月** 豊洲西小学校 補助授業 
+- **2021年12月** N高等学校（ティーチングアシスタント）インターン
+- **2021年9月** 豊洲西小学校 補助授業 
+- **2023年12月** クラスター株式会社 インターン
+    - プランナー
+    - マーケティング 
+
+
+#### 好きな技術領域
+- 好きな技術領域
+   - Unity（2年）
+   - メタバース（3年）
+   - AR（2年）
+   - Python（1年）
+   - 最近はWeb系と人工知能をワクワク勉強中
+   - レーザーハープ×AR 制作中
 ---
 
 ## 個人プロジェクト
@@ -66,9 +87,9 @@
 
 ## 主催イベント
 
-- **[空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**: TNXR WIRE編集長とXR業界リーダーを招待
-- **[AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
-- **[デジタルツインイベント](https://peatix.com/event/4191623/view)**: 東京大学特任教授三宅陽一郎氏と共同開催
+- **[TNXR MEETUP01 空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**:WIRE編集長とXR業界リーダーを招待
+- **[TNXR MEETUP03 AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
+- **[TNXR MEETUP04 デジタルツインイベント](https://peatix.com/event/4191623/view)**: 東京大学特任教授三宅陽一郎氏と共同開催
 
 ---
 
@@ -87,19 +108,19 @@
 
 ---
 
-## 業務経験 (2024年)
+## Work (2024年)
 
 - **[TNXRコミュニティリーダー](https://tokyonode.jp/articles/202404-1/index.html)**: 森ビル株式会社およびTokyoNodeLabと共同運営
 - **ハッカソン参加実績:**
   - **[PLATEAU Hack Challenge 2024](https://www.mlit.go.jp/plateau/journal/j063/)**
     - [YouTube発表](https://www.youtube.com/watch?v=rprmEN6A4ZQ)
   - **[enXross HACKATHON 2nd by TOKYO DOME](https://www.tokyo-dome.co.jp/enxross/overview/)**
+- - 慶應義塾大学 **スタートアップとビジネスイノベーション** にて特集
+  - [帯広地方創生企画ビジネスプラン発表](https://kachimai.jp/article/index.php?no=592700)
 
 ---
 
 ## アウトプット / 記事一覧
-
-### 技術およびビジョンに関する執筆
 
 - **[地図の歴史と未来に関する考察](https://note.com/katsu1008/n/nbe233f17bfec)**
 - **[僕の生い立ちと関心そしてビジョンについて](https://note.com/katsu1008/n/n6b2cd805a929)**
@@ -125,7 +146,4 @@
 - **[TokyoNode OpenLab 2024での登壇レポート 〜TNXRコミュニティリーダーとしての挑戦〜](https://note.com/katsu1008/n/n5674d1f25b16)**
 - **[第4回TNXRMEETUP対談レポート](https://note.com/katsu1008/n/ned87778053b0)**
 - **[ポストウェブの形を具体化してみた。](https://note.com/katsu1008/n/nd952917172fd)**
-- **[VSCodeでコメントアウトの色を変更する方法](https://katsunoblog.weblike.jp/how-to-customize-comment-color-vscode-tips/)**
-- **[勝信のビジョンについて](https://katsunoblog.weblike.jp/myVision/)**
-- **[第1話「自然的経済秩序」](https://katsunoblog.weblike.jp/natural-economic-order-1/)**
 
