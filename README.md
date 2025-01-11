@@ -112,6 +112,9 @@
 - 慶應義塾大学 **スタートアップとビジネスイノベーション** にて特集
   - [帯広地方創生企画ビジネスプラン発表](https://kachimai.jp/article/index.php?no=592700)
   - [十勝新聞掲載](https://kachimai.jp/article/index.php?no=616507)
+- TokyoNodeOpenLab
+  - [インスタグラム](https://www.instagram.com/p/C_hdmfdR4kG/)
+  - 
 
 ---
 
