@@ -87,7 +87,7 @@
 
 ## 登壇実績 (2024年)
 
-- **[TokyoNode OpenLab](https://tokyonode.jp/lab/events/openlab2024_talk/index.html)**
+- **[TokyoNodeOpenLab](https://tokyonode.jp/lab/events/openlab2024_talk/index.html)**森ビル新規研究開発部門TokyoNodeLab一周年記念 コミュニティセッション登壇
   - [YouTube録画](https://www.youtube.com/watch?v=NatPfO4lS0U)
 - **[XR Kaigi 2024](https://www.xrkaigi.com/event/9316/module/booth/308917/264599)**: コミュニティセッション登壇者
 
