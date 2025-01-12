@@ -93,7 +93,7 @@
 
 ## 主催イベント
 
-- **[TNXR MEETUP01 空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**:WIRE編集長とXR業界リーダーを招待
+- **[TNXR MEETUP01 空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**:WIRED編集長とXR業界リーダーを招待
 - **[TNXR MEETUP03 AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
 - **[TNXR MEETUP04 デジタルツインイベント](https://peatix.com/event/4191623/view)**: 東京大学特任教授三宅陽一郎氏と共同開催
 
