@@ -163,4 +163,7 @@
 - **[TokyoNode OpenLab 2024での登壇レポート 〜TNXRコミュニティリーダーとしての挑戦〜](https://note.com/katsu1008/n/n5674d1f25b16)**
 - **[第4回TNXRMEETUP対談レポート](https://note.com/katsu1008/n/ned87778053b0)**
 - **[物理世界のWeb化は物事・「事物」の情報化](https://note.com/katsu1008/n/nd952917172fd)**
+- **[VSCodeでコメントアウトの色を変更する方法](https://katsunoblog.weblike.jp/how-to-customize-comment-color-vscode-tips/)**
+- **[第1話 シルビオ・ゲゼル「自然的経済秩序」](https://katsunoblog.weblike.jp/natural-economic-order-1/)**
+
 
