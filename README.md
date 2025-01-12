@@ -162,5 +162,5 @@
 - **[TokyoNode XRParade開幕！未来の都市を体験しよう](https://note.com/katsu1008/n/n907034f94d35)**
 - **[TokyoNode OpenLab 2024での登壇レポート 〜TNXRコミュニティリーダーとしての挑戦〜](https://note.com/katsu1008/n/n5674d1f25b16)**
 - **[第4回TNXRMEETUP対談レポート](https://note.com/katsu1008/n/ned87778053b0)**
-- **[ポストウェブの形を具体化してみた。](https://note.com/katsu1008/n/nd952917172fd)**
+- **[物理世界のWeb化は物事・「事物」の情報化](https://note.com/katsu1008/n/nd952917172fd)**
 
