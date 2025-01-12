@@ -96,10 +96,9 @@
 ## 主催イベント
 - **[TNXR MEETUP00 TNXRコミュニティ発足イベント](https://note.com/katsu1008/n/n8493f0110515)**:新 都市XRコミュニティ「TNXR」始動！　
 - **[TNXR MEETUP01 空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**:WIRED編集長とXR業界リーダーを招待
-- **[TNXR MEETUP03 AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
--  **[TNXR MEETUP01 空間コンピューティング対談イベント](https://x.com/katsunobu1008/status/1857017709910708635)**:TNXRXRParade打ち上げ
-  -https://x.com/katsunobu1008/status/1856998437033500812
-    
+- **[TNXR MEETUP02 AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
+-  **[TNXR MEETUP03](https://x.com/katsunobu1008/status/1857017709910708635)**:TNXRXRParade打ち上げ
+  -[打ち上げ記録](https://x.com/katsunobu1008/status/1856998437033500812)
 - **[TNXR MEETUP04 デジタルツインイベント](https://peatix.com/event/4191623/view)**: 東京大学特任教授三宅陽一郎氏と共同開催
 
 ---
