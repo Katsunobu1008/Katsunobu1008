@@ -69,7 +69,9 @@
 - **[XR Creative Award 2024 - ノミネート](https://xrc.or.jp/award2024/#04077)**
 - **[審査員特別賞](https://tokyonode.jp/sp/xrhackathon2023)**: TOKYO NODE XR HACKATHON powered by PLATEAU
 - **[最優秀賞](https://x.com/geek_pjt/status/1784514656775848150)**: 技育CAMPハッカソン Vol.4
-- **[選出参加者](https://x.com/geek_pjt/status/1809537207746851085)**: 技育EXPO 2024 Vol.3
+- **[選出参加者](https://x.com/geek_pjt/status/1809537207746851085)**: 技育博 2024 Vol.3
+- **[ベストビジョナリー賞](https://iwakenlab.fanbox.cc/posts/8019982)**: イワケンラボ Award 2024 夏
+- **[ベストビジョナリー賞](https://iwakenlab.fanbox.cc/posts/8019982)**: イワケンラボ Award 2024 冬
 - **技育展 2024選出**:
   - [サポーターズ決勝進出ノート](https://note.supporterz.jp/n/n7e84e3fc0128)
   - [オラオラッシュ体験動画](https://x.com/katsunobu1008/status/1855507662869590126)
@@ -117,8 +119,9 @@
 
 ---
 
-## Work (2024年)
+## Work 
 
+### 2024年
 - **[TNXRコミュニティリーダー](https://tokyonode.jp/articles/202404-1/index.html)**: 森ビル株式会社およびTokyoNodeLabと共同運営
 - **ハッカソン参加実績:**
   - **[PLATEAU Hack Challenge 2024](https://www.mlit.go.jp/plateau/journal/j063/)**
@@ -126,7 +129,8 @@
   - **[enXross HACKATHON 2nd by TOKYO DOME](https://www.tokyo-dome.co.jp/enxross/overview/)**
 - - 慶應義塾大学 **スタートアップとビジネスイノベーション** にて特集
   - [帯広地方創生企画ビジネスプラン発表](https://kachimai.jp/article/index.php?no=592700)
-
+### 2023年
+- **[IwakenLab. 2023年振り返りYoutube](https://www.youtube.com/watch?v=Smx6ULp_ITI)**
 ---
 
 ## アウトプット / 記事一覧
