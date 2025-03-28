@@ -66,7 +66,8 @@
 
 ---
 
-## 受賞歴 (2024年)
+## 受賞歴 
+#### 2024年
 
 - **[XR Creative Award 2024 - ノミネート](https://xrc.or.jp/award2024/#04077)**
 - **[審査員特別賞](https://tokyonode.jp/sp/xrhackathon2023)**: TOKYO NODE XR HACKATHON powered by PLATEAU
@@ -78,6 +79,8 @@
   - [サポーターズ決勝進出ノート](https://note.supporterz.jp/n/n7e84e3fc0128)
   - [オラオラッシュ体験動画](https://x.com/katsunobu1008/status/1855507662869590126)
 
+#### 2025年
+- **[SONY賞 受賞](https://lightswill-ideathon01.peatix.com/)**: 藤原麻里菜×ギャル電とAIカメラで遊ぶアイデアソン｜FUTURE SKETCH TECH-LIVE ACT.1:SONY賞受賞
 ---
 
 ## 執筆活動 (2024年)
@@ -96,12 +99,17 @@
 ---
 
 ## 主催イベント
+#### 2024年
 - **[TNXR MEETUP00 TNXRコミュニティ発足イベント](https://note.com/katsu1008/n/n8493f0110515)**:新 都市XRコミュニティ「TNXR」始動！　
 - **[TNXR MEETUP01 空間コンピューティング対談イベント](https://tnxr-meetup-vol1.peatix.com/)**:WIRED編集長とXR業界リーダーを招待
 - **[TNXR MEETUP02 AppleVisionPro開発本出版イベント](https://visionos-engineer.connpass.com/event/328395/)**
 -  **[TNXR MEETUP03](https://x.com/katsunobu1008/status/1857017709910708635)**:TNXRXRParade打ち上げ
   -[打ち上げ記録](https://x.com/katsunobu1008/status/1856998437033500812)
 - **[TNXR MEETUP04 デジタルツインイベント](https://peatix.com/event/4191623/view)**: 東京大学特任教授三宅陽一郎氏と共同開催
+#### 2025年
+- **[TNXR MEETUP05 MRイベント](https://tnxrmeetupvol5.peatix.com/)**:株式会社Gatari CEO　竹下さんと共同開催
+- **[TNXR MEETUP06 MRイベント](https://tnxrmeetupvol6.peatix.com)**:都市と自在化身体 東京大学最先端研究所 稲見教授と共同開催
+- **[TNXR MEETUP06 MRイベント](https://tnxrmeetupvol7.peatix.com/)**:AIとXRの交差点 大阪国際専門工科大学 ソフトバンク社長室 木口佳南さんと共同開催
 
 ---
 
