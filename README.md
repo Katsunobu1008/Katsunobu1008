@@ -109,7 +109,7 @@
 #### 2025年
 - **[TNXR MEETUP05 MRイベント](https://tnxrmeetupvol5.peatix.com/)**:株式会社Gatari CEO　竹下さんと共同開催
 - **[TNXR MEETUP06 MRイベント](https://tnxrmeetupvol6.peatix.com)**:都市と自在化身体 東京大学最先端研究所 稲見教授と共同開催
-- **[TNXR MEETUP06 MRイベント](https://tnxrmeetupvol7.peatix.com/)**:AIとXRの交差点 大阪国際専門工科大学 ソフトバンク社長室 木口佳南さんと共同開催
+- **[TNXR MEETUP07 MRイベント](https://tnxrmeetupvol7.peatix.com/)**:AIとXRの交差点 大阪国際専門工科大学 ソフトバンク社長室 木口佳南さんと共同開催
 
 ---
 
